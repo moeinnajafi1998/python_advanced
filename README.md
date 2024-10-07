@@ -3,7 +3,8 @@
 ## Advanced
 1. **Advanced Object-Oriented Programming (OOP)**
    - Abstract classes and interfaces => 1.py
-   - Method resolution order (MRO)
+   - multiple inheritance => 2.py
+   - Method resolution order (MRO) => 2.py
    - Property decorators (`@property`)
    - Dunder methods (e.g., `__str__`, `__repr__`, `__len__`)
 
