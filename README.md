@@ -13,7 +13,7 @@
    - Creating and using context managers => 4.py
 
 3. **Concurrency and Parallelism**
-   - Threading
+   - Multithreading
    - Multiprocessing
    - Asynchronous programming (using `asyncio`)
 
