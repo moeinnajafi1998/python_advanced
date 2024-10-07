@@ -23,6 +23,6 @@
    - Debugging with `pdb` and other debugging tools
 
 5. **Working with APIs**
-   - Understanding RESTful APIs
-   - Using the `requests` library to make HTTP requests
-   - Handling API responses
+   - Understanding RESTful APIs => 5.py
+   - Using the `requests` library to make HTTP requests => 5.py
+   - Handling API responses => 5.py
