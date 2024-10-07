@@ -5,7 +5,7 @@
    - Abstract classes and interfaces => 1.py
    - multiple inheritance => 2.py
    - Method resolution order (MRO) => 2.py
-   - Property decorators (`@property`)
+   - Property decorators (`@property`) => 3.py
    - Dunder methods (e.g., `__str__`, `__repr__`, `__len__`)
 
 2. **Decorators and Context Managers**
